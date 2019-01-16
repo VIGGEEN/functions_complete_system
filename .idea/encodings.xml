@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/src/Auction.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/Bid.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/Dog.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/Program.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/ProgramTest.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/User.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/UserTest.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/UserTest.java" charset="UTF-16" />
+  </component>
+</project>
